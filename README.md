@@ -1,9 +1,13 @@
 ## Hi there 👋
-
+- 📚 I'm new in GitHub 
+- 💻 I'm currently studying how to code with Python
+- 🧡 I'm an advocate of Bitcoin and how it can help people
+- You can reach me on X: @SottileGiulio
 <!--
 **Spartang117/Spartang117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![msg105172940-7](https://github.com/user-attachments/assets/84d6d5d1-6119-4f94-80ff-b07ef394ce3f)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![msg105172940-7](https://github.com/user-attachments/assets/1d9ee4fe-fe5f-4f6f-8a07-8cfed7e4640a)
