@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 📚 I'm new in GitHub 
+- 💻 I'm currently studying how to code with Python
+- 🧡 I'm an advocate of Bitcoin and how it can help people
+- You can reach me on X: @SottileGiulio
 <!--
 **Spartang117/Spartang117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
